@@ -8,7 +8,7 @@ export default function Hero() {
           <div className="space-y-8">
             <h1 className="text-5xl md:text-6xl font-bold leading-tight animate-fade-in">
               Hi, I'm
-              <span className="text-purple-600"> Biswajit Padhi</span>
+              <span className="text-purple-600"> Biswajit Padhy</span>
             </h1>
             <p className="text-gray-600 text-lg animate-fade-in-delay">
               Transforming ideas into stunning visual experiences. Specializing in brand design,

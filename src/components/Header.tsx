@@ -11,7 +11,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Palette className="h-6 w-6 text-purple-600" />
-            <span className="text-xl font-bold">DesignCraft</span>
+            <span className="text-xl font-bold">NextGen Invites</span>
           </div>
           
           {/* Desktop Menu */}

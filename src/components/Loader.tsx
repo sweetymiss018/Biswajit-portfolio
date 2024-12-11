@@ -5,7 +5,7 @@ const Loader: React.FC = () => {
   const [text, setText] = useState<string>(""); // Holds the text being displayed
   const [showFinalMessage, setShowFinalMessage] = useState<boolean>(false);
 
-  const welcomeText: string = "Welcome to Chandu Designs";
+  const welcomeText: string = "Welcome to NextGen Invites";
 
   useEffect(() => {
     let index = 0;
@@ -53,7 +53,7 @@ const Loader: React.FC = () => {
               className="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-teal-500 to-blue-500
                 shadow-xl shadow-green-500/50"
             >
-              Welcome to <span className="text-pink-500">Chandu Designs</span>
+              Welcome to <span className="text-pink-500">NextGen Invites</span>
             </span>
           </motion.div>
         )}
